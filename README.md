@@ -61,7 +61,7 @@
   </tr>
   </table>
   
-- **Created a new table named email_backers_remaining_goal_amount that contained the email addresses of the backers in descending order, the first and the last name of each backer, the cf_id, the company name, the description, the end date of the campaign, and the remaining amount of the campaign goal as "Left of Goal"..**
+- **Created a new table named email_backers_remaining_goal_amount that contained the email addresses of the backers in descending order, the first and the last name of each backer, the cf_id, the company name, the description, the end date of the campaign, and the remaining amount of the campaign goal as "Left of Goal".**
   
   <table>
   <tr>
